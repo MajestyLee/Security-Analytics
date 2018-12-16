@@ -2,6 +2,9 @@
 
 Use different ML methods to analyze and compare these two methods
 
+Authors:
+Binjie Li, Zhiyuan Li, Jingcheng Yang, Hong Ma
+
 ## Intro to NSL Kdd Dataset
 
 NSL-KDD is a data set suggested to solve some of the inherent problems of the KDD'99 data set which are mentioned in. Although, this new version of the KDD data set still suffers from some of the problems discussed by McHugh and may not be a perfect representative of existing real networks, because of the lack of public data sets for network-based IDSs, we believe it still can be applied as an effective benchmark data set to help researchers compare different intrusion detection methods.(https://www.unb.ca/cic/datasets/nsl.html)
